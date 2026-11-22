@@ -1,7 +1,7 @@
 {
   "censorship": true,
   "ads": {
-    "interstitialEverySec": 180
+    "interstitialEverySec": 240
   },
   "economy": {
     "hardness": 1.0,
