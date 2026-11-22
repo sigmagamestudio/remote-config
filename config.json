@@ -1,5 +1,5 @@
 {
-  "censorship": true,
+  "censorship": false,
   "economy": {
     "hardness": 1.0,
     "income": 1.0,
